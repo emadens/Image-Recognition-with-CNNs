@@ -13,4 +13,4 @@ Given the objective of the challenge we managed to solve the competition through
 - Xception model
 - Inception model
 
-To dive deeper on how we got to this solution you can find the [report](report.pdf)
+To dive deeper on how we got to this solution you can read the [report](report.pdf)
