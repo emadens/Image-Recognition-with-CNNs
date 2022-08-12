@@ -12,3 +12,5 @@ In this homework you are required to classify images of leafs (like the ones in 
 Given the objective of the challenge we managed to solve the competition through the ensemble of two models trained and tuned for our specific problem.
 - Xception model
 - Inception model
+
+To dive deeper on how we got to this solution you can find the [report](report.pdf)
